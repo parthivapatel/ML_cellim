@@ -1,0 +1,27 @@
+<<<<<<< HEAD
+StochasticSimFigures - Load simulation data and plot figures 4b and 4c
+
+cell1000_tnfsweep - matlab data file containing 1000 single cells for 20 tnf concentrations
+
+cells1000_t0 - 1000 single cells at t0, pre-stimulation
+
+MainFile - Simulation script for full stochastic model. Model files are:
+	Model - contains generalized model
+	Parameters - parameters to use in model
+	StatusChange - update function
+	TNFloop - loop for different TNF levels on a single cell
+
+=======
+StochasticSimFigures - Load simulation data and plot figures 4b and 4c
+
+cell1000_tnfsweep - matlab data file containing 1000 single cells for 20 tnf concentrations
+
+cells1000_t0 - 1000 single cells at t0, pre-stimulation
+
+MainFile - Simulation script for full stochastic model. Model files are:
+	Model - contains generalized model
+	Parameters - parameters to use in model
+	StatusChange - update function
+	TNFloop - loop for different TNF levels on a single cell
+
+>>>>>>> e409751e531eb57f3e9bdec15b37d1cdd56cfeee
